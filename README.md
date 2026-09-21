@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center"><img width="100%" src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=60&duration=1600&pause=2400&color=F8FAFC&background=102A3DFF&center=true&vCenter=true&repeat=false&width=1000&height=150&lines=Lan+Anh" alt="Lan Anh hero in DM Serif Display" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0:08111F,52:123B5D,100:0F766E&text=LAN%20ANH&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=PRODUCT%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20APPLIED%20AI&descSize=16&descAlignY=65&animation=fadeIn" alt="Lan Anh portfolio header" />
+<p align="center"><sub>PRODUCT &nbsp;•&nbsp; SYSTEMS &nbsp;•&nbsp; APPLIED AI</sub></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=1100&color=0EA5A4&center=true&vCenter=true&width=760&height=42&lines=Turning+messy+ideas+into+thoughtful+products;Designing+AI+that+earns+its+place+in+the+workflow" alt="Animated introduction" />
 
