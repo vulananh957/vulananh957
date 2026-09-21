@@ -17,8 +17,6 @@ I'm a builder who likes starting with a real problem, understanding the people b
 
 I am especially interested in the point where software stops being a collection of screens and starts behaving like a capable product: understanding intent, managing state, returning structured results, protecting important workflows, and remaining clear enough for a team to extend.
 
-Currently, I am sharpening my craft and preparing to build at the **SEA × Codex Hackathon**.
-
 ## What I bring to a team
 
 - **Product thinking:** I connect technical decisions to the user problem instead of building features in isolation.
